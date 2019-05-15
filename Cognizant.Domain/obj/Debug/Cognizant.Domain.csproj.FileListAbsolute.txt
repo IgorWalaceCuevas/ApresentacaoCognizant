@@ -1,0 +1,6 @@
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Domain\bin\Debug\Cognizant.Domain.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Domain\bin\Debug\Cognizant.Domain.pdb
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Domain\obj\Debug\Cognizant.Domain.csprojAssemblyReference.cache
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Domain\obj\Debug\Cognizant.Domain.csproj.CoreCompileInputs.cache
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Domain\obj\Debug\Cognizant.Domain.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Domain\obj\Debug\Cognizant.Domain.pdb

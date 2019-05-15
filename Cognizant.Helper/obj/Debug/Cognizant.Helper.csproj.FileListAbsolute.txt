@@ -1,0 +1,6 @@
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Helper\bin\Debug\Cognizant.Helper.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Helper\bin\Debug\Cognizant.Helper.pdb
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Helper\obj\Debug\Cognizant.Helper.csprojAssemblyReference.cache
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Helper\obj\Debug\Cognizant.Helper.csproj.CoreCompileInputs.cache
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Helper\obj\Debug\Cognizant.Helper.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Helper\obj\Debug\Cognizant.Helper.pdb

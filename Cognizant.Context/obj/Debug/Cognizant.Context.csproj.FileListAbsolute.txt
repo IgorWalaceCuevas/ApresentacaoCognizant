@@ -1,0 +1,14 @@
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\Cognizant.Context.dll.config
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\Cognizant.Context.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\Cognizant.Context.pdb
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\EntityFramework.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\EntityFramework.SqlServer.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\EntityFramework.xml
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\EntityFramework.SqlServer.xml
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\obj\Debug\Cognizant.Context.csprojAssemblyReference.cache
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\obj\Debug\Cognizant.Context.csproj.CoreCompileInputs.cache
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\obj\Debug\Cognizant.Context.csproj.CopyComplete
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\obj\Debug\Cognizant.Context.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\obj\Debug\Cognizant.Context.pdb
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\Cognizant.Domain.dll
+E:\Igor\Source\Repos\AplicacaoWebCognizant\Cognizant.Context\bin\Debug\Cognizant.Domain.pdb
